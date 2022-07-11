@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
+/* Documentation */
+
 const App = () => {
 
   // https://fakestoreapi.com/products
