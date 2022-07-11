@@ -36,7 +36,7 @@ const App = () => {
                   <h5>{values.title}</h5>
                   <p>{values.description}</p>
                 </div>
-                  <img src={values.image} alt='Product Picture'/>
+                  <img src={values.image} alt='Product Image'/>
               </div>
             </>
           );
