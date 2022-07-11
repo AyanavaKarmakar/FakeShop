@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 
 /* Documentation */
+// use react-router for routing to different pages
 
 const App = () => {
 
